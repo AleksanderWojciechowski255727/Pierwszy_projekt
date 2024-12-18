@@ -1,2 +1,3 @@
 Chlep/
 szynka
+maslo
